@@ -21,3 +21,5 @@ If you would like the Figma file in order to see sizes etc, it is available to d
 If there are any assents you will find all the required assets in the `/images` folder. The assets are already optimized.
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+
+Design published at: https://vytautaskaz.github.io/join-our-gym/.  

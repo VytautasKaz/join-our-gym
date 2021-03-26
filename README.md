@@ -1,6 +1,6 @@
 # Frontend Playground - Join Our Gym
 
-![Design preview for the Join Our Gym landing page with single introductory section](./design/desktop.jpg)
+![Design preview for the Join Our Gym landing page with single introductory section](./design/desktop.png)
 
 ## Welcome! 👋
 
